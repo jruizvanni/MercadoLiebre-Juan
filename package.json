@@ -8,7 +8,7 @@
       "test": "nodemon src/app.js"
     },
     "keywords": [],
-    "author": "",
+    "author": "Juan Ruiz",
     "license": "ISC",
     "dependencies": {
       "express": "^4.19.2"
